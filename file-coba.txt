@@ -1,0 +1,3 @@
+ini merupakan file testing 
+
+untuk koneksi antara git lokal dengan github 
